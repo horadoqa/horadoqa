@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @horadoqa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m @horadoqa 👋
 
-<!---
-horadoqa/horadoqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about quality assurance and testing.
+
+## Interests
+
+I’m interested in:
+
+- Automatic Tests
+- Performance Tests
+- Manual Tests
+
+## Frameworks
+
+I work with various testing frameworks, including:
+
+- Selenium
+- Robot Framework
+- Cypress
+- Cucumber
+
+## Social Media
+
+You can find me online at:
+
+- [Website](https://horadoqa.github.io/site/index.html)
+- [YouTube](https://youtube.com/@horadoqa2/videos)
+- [Email](mailto:horadoqa@gmail.com)
