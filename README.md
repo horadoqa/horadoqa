@@ -1,11 +1,11 @@
-# Olá, sou @horadoqa 👋
+# [![Olá, sou @horadoqa 👋](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+%40horadoqa+%F0%9F%91%8B)](https://git.io/typing-svg) 
 
-Bem-vindo ao meu perfil do GitHub! 
-Sou apaixonado por Garantia de Qualidade (QA) e Testes, e meu objetivo é compartilhar minhas experiências, ferramentas e práticas para melhorar a qualidade do software.
+Bem-vindo ao perfil do @horadoqa! 🚀
+Somos entusiastas de Garantia de Qualidade (QA) e Testes de Software, e nossa missão é compartilhar conhecimento, ferramentas e boas práticas para aprimorar a qualidade do software.
 
-## 🔍 Meus Interesses
+## 🔍 Áreas de Interesses
 
-Sou especializado nas seguintes áreas:
+Nosso foco está em construir uma comunidade especializada em:
 
 - **Testes Manuais:** Garantir a qualidade do software através da análise detalhada e testes manuais.
 - **Testes Automáticos:** Criação de scripts de testes para automatizar processos e aumentar a eficiência.
@@ -13,7 +13,7 @@ Sou especializado nas seguintes áreas:
 
 ## ⚙️ Ferramentas e Frameworks
 
-Trabalho com diversas ferramentas e frameworks de teste, incluindo:
+Utilizamos as melhores ferramentas para garantir que o software seja sempre de alta qualidade:
 
 - [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
 - [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
@@ -22,16 +22,26 @@ Trabalho com diversas ferramentas e frameworks de teste, incluindo:
 - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
 - [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
 
-## 🌐 Conecte-se Comigo
+## 🌐 Conecte-se
 
-Você pode me encontrar online:
+Entre em contato ou acompanhe o trabalho:
 
-- [Meu Website](https://www.horadoqa.com.br) - Portfólio e mais sobre meu trabalho.
-- [Canal no YouTube](https://youtube.com/@horadoqa/videos) - Dicas e tutoriais sobre qualidade de software.
-- [E-mail](mailto:horadoqa@gmail.com) - Para contato profissional ou dúvidas.
+- [Website](https://www.horadoqa.com.br) - Portfólio e detalhes sobre meus projetos e experiência.
+- [Canal no YouTube](https://youtube.com/@horadoqa) - Dicas e tutoriais sobre qualidade de software e testes.
+- [E-mail](mailto:horadoqa@gmail.com) - Para perguntas, oportunidades de colaboração ou dúvidas gerais.
+- [Discord](https://discord.gg/8h2HHdKPe5) - Junte-se à nossa comunidade focada em QA e desenvolvimento!
+
+## 🤝 Como Contribuir:
+
+Nosso trabalho é open-source e adoramos a contribuição da comunidade. Para contribuir, siga estas etapas:
+
+- Não hesite em entrar em contato para compartilhar ideias ou pedir orientação.
+- Faça um `FORK` do projeto
+- Crie um novo branch
+- Realize as alterações e faça um Pull Request.
 
 ## 📊 Estatísticas do GitHub
 
-Aqui estão algumas estatísticas do meu GitHub:
+Aqui estão algumas estatísticas do GitHub:
 
 ![HORADOQA GitHub stats](https://github-readme-stats.vercel.app/api?username=horadoqa&show_icons=true&theme=radical)
