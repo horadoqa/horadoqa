@@ -45,4 +45,8 @@ Nosso trabalho é open-source e adoramos a contribuição da comunidade. Para co
 
 Aqui estão algumas estatísticas do GitHub:
 
-![HORADOQA GitHub stats](https://github-readme-stats.vercel.app/api?username=horadoqa&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=horadoqa&show_icons=true&theme=radical" height="290" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horadoqa&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horadoqa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+</div>
