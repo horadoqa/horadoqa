@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hora%20do%20QA&reversal=false&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&autocolor=gradient&text=Hora%20do%20QA&reversal=false&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling" alt="header" width="100%"/>
 </div>
 
-# [![Olá, sou @horadoqa 👋](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+%40horadoqa+%F0%9F%91%8B)](https://git.io/typing-svg) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Testes+Manuais;Testes+Automatizados;Testes+de+Performance;Tudo+sobre+Qualidade+de+Software" alt="Typing animation" />
+</div>
+
+---
 
 Bem-vindo ao perfil do @horadoqa! 🚀
 
@@ -13,7 +17,7 @@ Somos entusiastas de Garantia de Qualidade (QA) e Testes de Software, e nossa mi
 Nosso foco está em construir uma comunidade especializada em:
 
 - **Testes Manuais:** Garantir a qualidade do software através da análise detalhada e testes manuais.
-- **Testes Automáticos:** Criação de scripts de testes para automatizar processos e aumentar a eficiência.
+- **Testes Automátizados:** Criação de scripts de testes para automatizar processos e aumentar a eficiência.
 - **Testes de Performance:** Realização de testes para validar a escalabilidade e estabilidade das aplicações.
 
 ## ⚙️ Ferramentas e Frameworks
@@ -27,14 +31,30 @@ Utilizamos as melhores ferramentas para garantir que o software seja sempre de a
 - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
 - [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
 
+## ⚡ Tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,js,nodejs,react,nextjs,docker,kubernetes,postgres,mongodb,redis,aws,gcp,linux,git" />
+</div>
+
 ## 🌐 Conecte-se
 
 Entre em contato ou acompanhe o trabalho:
 
+<div align="center">
+  <a href="https://youtube.com/@horadoqa">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
+  </a>
+  <a href="https://linkedin.com/in/ricardo-fahham">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/8h2HHdKPe5">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
 - [Website](https://www.horadoqa.com.br) - Portfólio e detalhes sobre meus projetos e experiência.
-- [Canal no YouTube](https://youtube.com/@horadoqa) - Dicas e tutoriais sobre qualidade de software e testes.
 - [E-mail](mailto:horadoqa@gmail.com) - Para perguntas, oportunidades de colaboração ou dúvidas gerais.
-- [Discord](https://discord.gg/8h2HHdKPe5) - Junte-se à nossa comunidade focada em QA e desenvolvimento!
 
 ## 🤝 Como Contribuir:
 
@@ -47,14 +67,15 @@ Nosso trabalho é open-source e adoramos a contribuição da comunidade. Para co
 
 ## 📊 Estatísticas do GitHub
 
-Aqui estão algumas estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horadoqa&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horadoqa&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horadoqa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
-</div>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=horadoqa&theme=tokyonight" alt="GitHub stats" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" alt="footer" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horadoqa&theme=tokyonight" alt="Top languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horadoqa&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horadoqa&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Tudo%20sobre%20Qualidade%20de%20Software&section=footer&fontAlignY=70&fontSize=40" alt="footer" width="100%"/>
 </div>
