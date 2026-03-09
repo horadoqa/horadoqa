@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hora%20do%20QA&reversal=false&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling" alt="header" />
+</div>
+
 # [![Olá, sou @horadoqa 👋](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+%40horadoqa+%F0%9F%91%8B)](https://git.io/typing-svg) 
 
 Bem-vindo ao perfil do @horadoqa! 🚀
@@ -49,4 +53,8 @@ Aqui estão algumas estatísticas do GitHub:
   <img src="https://github-readme-stats.vercel.app/api?username=horadoqa&show_icons=true&theme=radical" height="290" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=horadoqa&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horadoqa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=footer" alt="footer" />
 </div>
