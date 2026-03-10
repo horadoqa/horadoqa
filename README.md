@@ -8,9 +8,9 @@
 
 ---
 
-Bem-vindo ao perfil do @horadoqa! 🚀
+Bem-vindo ao perfil do **@horadoqa!** 🚀
 
-Somos entusiastas de Garantia de Qualidade (QA) e Testes de Software, e nossa missão é compartilhar conhecimento, ferramentas e boas práticas para aprimorar a qualidade do software.
+Somos entusiastas de **Garantia de Qualidade (QA) e Testes de Software**, e nossa missão é compartilhar conhecimento, ferramentas e boas práticas para aprimorar a qualidade do software.
 
 ## 🔍 Áreas de Interesses
 
@@ -51,10 +51,13 @@ Entre em contato ou acompanhe o trabalho:
   <a href="https://discord.gg/8h2HHdKPe5">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="mailto:horadoqa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://horadoqa.com.br">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </div>
-
-- [Website](https://www.horadoqa.com.br) - Portfólio e detalhes sobre meus projetos e experiência.
-- [E-mail](mailto:horadoqa@gmail.com) - Para perguntas, oportunidades de colaboração ou dúvidas gerais.
 
 ## 🤝 Como Contribuir:
 
